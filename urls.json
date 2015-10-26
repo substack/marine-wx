@@ -1,0 +1,4 @@
+{
+  "sf north": "http://weather.noaa.gov/pub/data/forecasts/marine/coastal/pz/pzz530.txt",
+  "sf south": "http://weather.noaa.gov/pub/data/forecasts/marine/coastal/pz/pzz531.txt"
+}
